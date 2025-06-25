@@ -1,0 +1,26 @@
+{
+  "name": "jwt-auth-template-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utk2602/JWT-auth-template-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/utk2602/JWT-auth-template-/issues"
+  },
+  "homepage": "https://github.com/utk2602/JWT-auth-template-#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0",
+    "typescript": "^5.8.3"
+  }
+}
